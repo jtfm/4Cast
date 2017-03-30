@@ -1,5 +1,6 @@
-# 4Cast
-4Cast is a simple single-page website intended to display the current weather conditions of anywhere around the world.
+# What's the weather like?
+
+This is a simple single-page website intended to display the current weather conditions of anywhere around the world.
 
 ***How does it work?***
 
