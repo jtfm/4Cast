@@ -22,4 +22,5 @@ Possible Mission Creep:
   - Wind speed and direction icon
 
 To see my hosted version, go here: http://smallblaze.com/weather.html
+
 To see the Codepen version, go here: http://codepen.io/jtfm/pen/LWMmjb
