@@ -8,7 +8,7 @@ It sends a query to the OpenWeatherMap API (https://openweathermap.org) based on
 
 Notes:
 
- - Currently works in Firefox and Opera, though not Chrome due to it's insistence on https. 
+ - Currently works in Firefox and Opera, though not Chrome due to its insistence on https. 
 
 Possible future developments:
 
