@@ -17,7 +17,7 @@ function renderHTML(data) {
 	document.getElementById("location").innerHTML = data.name;
 	var d = new Date();
 	var htmlString = "";
-	htmlString += "<img height='100px' width='100px' src='" + "http://openweathermap.org/img/w/" + data.weather[0].icon + ".png'><br>";
+	htmlString += "<img height='100px' width='100px' src='https://res.cloudinary.com/jtfm/image/upload/v1490970515/weather-icons/" + data.weather[0].icon + ".svg'><br>";
 	htmlString += d.getHours() + ":" + d.getMinutes() + " <br>";
 	htmlString += d.getDate() + "/" + d.getMonth() + "/" + d.getFullYear() + "<br><br>";
 	htmlString += "Conditions: " + data.weather[0].description + "<br>";
